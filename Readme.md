@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Шораана Монгуш](https://up.htmlacademy.ru/htmlcss-individual/2/user/2505297).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
 
 ---
 
