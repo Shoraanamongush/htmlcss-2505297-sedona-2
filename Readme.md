@@ -2,6 +2,7 @@
 
 * Студент: [Шораана Монгуш](https://up.htmlacademy.ru/htmlcss-individual/2/user/2505297).
 * Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
+* Сайт: [Мой проект Седона](https://shoraanamongush.github.io/htmlcss-2505297-sedona-2/)
 
 ---
 
